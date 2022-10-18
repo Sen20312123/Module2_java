@@ -4,6 +4,19 @@ public class Array2D {
     public static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
+
+    }
+    public static void sumArray(){
+        int [][] arr = inputArray2();
+        int sum = 0;
+        for (int i = 0 ; i < arr.length ; i++){
+            for (int j = 0 ; j < arr[i].length; j++){
+                sum += arr[i][j];
+            }
+        }
+        System.out.println("Tổng mảng 2 chiều là :" + sum);
+    }
+    public static void launch(){
         int action;
         do {
             System.out.println("Bài 1: Nhập và in ma trận.");
@@ -18,7 +31,7 @@ public class Array2D {
             System.out.println("Bài 10:In ra các số nằm trên đường viền của ma trận.");
             System.out.println("Lưu ý : Nhập số 0 nếu bạn muốn thoát.");
             System.out.print("Nhập số: ");
-             action = Integer.parseInt(scanner.nextLine());
+            action = Integer.parseInt(scanner.nextLine());
             switch (action){
                 case 1 :
                     System.out.println("Bài 1. Nhập và in ma trận");
@@ -65,7 +78,6 @@ public class Array2D {
                     break;
             }
         }while (action!=0);
-
     }
 
     public static int[][] inputArray2() {
