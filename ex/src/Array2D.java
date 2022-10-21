@@ -6,16 +6,6 @@ public class Array2D {
     public static void main(String[] args) {
 
     }
-    public static void sumArray(){
-        int [][] arr = inputArray2();
-        int sum = 0;
-        for (int i = 0 ; i < arr.length ; i++){
-            for (int j = 0 ; j < arr[i].length; j++){
-                sum += arr[i][j];
-            }
-        }
-        System.out.println("Tổng mảng 2 chiều là :" + sum);
-    }
     public static void launch(){
         int action;
         do {
@@ -79,7 +69,16 @@ public class Array2D {
             }
         }while (action!=0);
     }
-
+    public static void sumArray(){
+        int [][] arr = inputArray2();
+        int sum = 0;
+        for (int i = 0 ; i < arr.length ; i++){
+            for (int j = 0 ; j < arr[i].length; j++){
+                sum += arr[i][j];
+            }
+        }
+        System.out.println("Tổng mảng 2 chiều là :" + sum);
+    }
     public static int[][] inputArray2() {
         System.out.println("Nhập số cột: ");
         int nCol = Integer.parseInt(scanner.nextLine());
