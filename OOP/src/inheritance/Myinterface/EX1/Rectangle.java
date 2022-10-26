@@ -1,6 +1,6 @@
-package inheritance.Myinterface;
+package inheritance.Myinterface.EX1;
 
-public class Rectangle extends Shape implements Resizeable{
+public class Rectangle extends Shape implements Resizeable {
     private double width = 1.0;
     private double length = 1.0;
 

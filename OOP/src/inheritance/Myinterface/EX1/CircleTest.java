@@ -1,4 +1,6 @@
-package inheritance.Myinterface;
+package inheritance.Myinterface.EX1;
+
+import inheritance.Myinterface.EX1.Circle;
 
 public class CircleTest {
     public static void main(String[] args) {

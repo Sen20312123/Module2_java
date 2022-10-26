@@ -1,6 +1,6 @@
-package inheritance.Myinterface;
+package inheritance.Myinterface.EX1;
 
-public class Circle extends Shape implements Resizeable{
+public class Circle extends Shape implements Resizeable {
     private double radius = 1.0;
 
     public Circle() {

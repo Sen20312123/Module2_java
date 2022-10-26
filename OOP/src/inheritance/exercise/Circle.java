@@ -1,4 +1,6 @@
-package inheritance;
+package inheritance.exercise;
+
+import inheritance.Shape;
 
 public class Circle extends Shape {
     private double radius = 1.0;

@@ -1,4 +1,4 @@
-package inheritance.Myinterface;
+package inheritance.Myinterface.EX1;
 
 public interface Resizeable {
 

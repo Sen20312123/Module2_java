@@ -1,6 +1,8 @@
-package inheritance;
+package inheritance.exercise;
 
-public class Cylinder extends EXCircle{
+import inheritance.EXCircle;
+
+public class Cylinder extends EXCircle {
     private double height;
 
     public Cylinder(){

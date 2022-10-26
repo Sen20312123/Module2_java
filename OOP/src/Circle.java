@@ -11,9 +11,9 @@ public class Circle extends Geometric {
     }
 
     public Circle(double radius, String color, String filled) {
+        super(color,filled);
         this.radius = radius;
-        setColor(color);
-        setFilled(filled);
+
     }
 
     public double getRadius() {

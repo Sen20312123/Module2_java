@@ -1,6 +1,6 @@
-package inheritance.Myinterface;
+package inheritance.Myinterface.EX1;
 
-public class Square extends Shape implements Resizeable{
+public class Square extends Shape implements Resizeable {
     private double a ;
     private double b = a;
 

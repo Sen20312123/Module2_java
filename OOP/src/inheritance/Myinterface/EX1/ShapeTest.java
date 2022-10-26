@@ -1,4 +1,4 @@
-package inheritance.Myinterface;
+package inheritance.Myinterface.EX1;
 
 public class ShapeTest {
     public static void main(String[] args) {

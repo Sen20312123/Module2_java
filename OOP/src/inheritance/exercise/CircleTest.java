@@ -1,4 +1,6 @@
-package inheritance;
+package inheritance.exercise;
+
+import inheritance.exercise.Circle;
 
 public class CircleTest {
     public static void main(String[] args) {

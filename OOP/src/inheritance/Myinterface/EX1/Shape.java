@@ -1,4 +1,4 @@
-package inheritance.Myinterface;
+package inheritance.Myinterface.EX1;
 
 public class Shape {
     private String color = "green";
