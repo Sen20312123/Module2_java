@@ -5,21 +5,27 @@ import java.util.Arrays;
 
 public class MyListTest {
     public static void main(String[] args) {
-        MyList<Integer> listInteger = new MyList<Integer>();
-//        ArrayList<Integer> name = new ArrayList<>();
-        listInteger.add(1);
-        listInteger.add(2);
-        listInteger.add(3);
-        listInteger.add(3);
-        listInteger.add(4);
+//        MyList<Integer> listInteger = new MyList<Integer>();
+////        ArrayList<Integer> name = new ArrayList<>();
+//        listInteger.add(1);
+//        listInteger.add(2);
+//        listInteger.add(3);
+//        listInteger.add(3);
+//        listInteger.add(4);
 //        listInteger.addElement(1);
 //        listInteger.addElement(2);
 //        listInteger.addElement(3);
 //        listInteger.addElement(3);
-        System.out.println(listInteger.clone());
+
         MyList<Integer> name = new MyList<Integer>(5);
-        name.addIndex(3 , 1);
+        name.add(1);
+        name.add(2);
+        name.add(3);
+
         System.out.println(name);
+        name.addIndex(15 , 1);
+        System.out.println(name);
+
 
 
 

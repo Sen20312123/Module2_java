@@ -87,14 +87,21 @@ public class MyList<E> {
     }
 
     public void addIndex(int index , E element) {
-        for (int i = index; i < size; i++) {
-            elements[i] = elements[i + 1];
+        while (index > elements.length){
+            ensureCapa();
         }
-        size++;
+        if (index > 0 || index < size) {
+
+            for (int i = size-1; i >= index; i--) {
+                elements[i + 1] = elements[i];
+            }
+            elements[index] = element;
+            size++;
+        }
     }
     public String toString() {
         return "MyList{" +
-                "size=" + size +
+                    size+
                 ", elements=" + Arrays.toString(elements) +
                 '}';
     }
