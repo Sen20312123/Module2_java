@@ -1,7 +1,6 @@
-package DSA$DanhSach;
+package DSA$DanhSach.listBasic;
 
-import java.util.ArrayList;
-import java.util.Arrays;
+import DSA$DanhSach.listBasic.MyList;
 
 public class MyListTest {
     public static void main(String[] args) {

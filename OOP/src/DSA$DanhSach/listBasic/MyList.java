@@ -1,4 +1,4 @@
-package DSA$DanhSach;
+package DSA$DanhSach.listBasic;
 
 import java.util.Arrays;
 
