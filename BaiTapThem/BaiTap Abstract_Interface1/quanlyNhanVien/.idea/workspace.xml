@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5797012b-6bb9-4105-8bda-8b29115358cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/BaiTapThem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BaiTap Abstract_Interface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BaiTap Abstract_Interface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BaiTap Abstract_Interface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BaiTap Abstract_Interface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/BaiTap Abstract_Interface1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanlyNhanVien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../can-cuoc-cong-dan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../can-cuoc-cong-dan/can-cuoc-cong-dan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Java Collection Framework/ThiThucHanh/.idea/ThiThucHanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Java Collection Framework/ThiThucHanh/ShoeShop/ShoeShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/OOP/out/production/OOP/OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Array/src/Array1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Array/src/Array1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Array/src/Array2d.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Array/src/Array2d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Binary File _ Serialization/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Binary File _ Serialization/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Binary File _ Serialization/src/ex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Binary File _ Serialization/src/ex/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CleanCode/src/thuchanh/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../CleanCode/src/thuchanh/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DSA/src/queue/LinkedListQueueClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DSA/src/queue/LinkedListQueueClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DSA/src/queue/MyLinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DSA/src/queue/MyLinkedListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DSA/src/queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DSA/src/queue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DSA/src/queue/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DSA/src/queue/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DSA/src/queue/QueueClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DSA/src/queue/QueueClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DSA/src/stack/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DSA/src/stack/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DSA/src/stack/MyStackInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DSA/src/stack/MyStackInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DSA/src/stack/MyStackString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DSA/src/stack/MyStackString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DSA/src/stack/StackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DSA/src/stack/StackClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/ex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/ex/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/AnimalFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/AnimalFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/BookBorrower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/BookBorrower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/BookSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/BookSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/FactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/FactoryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/ObjectPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/ObjectPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/Taxi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/TaxiNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/TaxiNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/TaxiPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/TaxiPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/TaxiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/TaxiThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns/src/thuchanh/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/AbstractTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/AbstractTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/AgeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/AgeComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/Student1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/Student1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/TestBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/TestBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/TestMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/TestMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java Collection Framework/src/thuchanh/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../List/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../List/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/CleanCode/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/CleanCode/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/linkedList/LinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/linkedList/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/linkedList/LinkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/linkedList/LinkedList/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/linkedList/MainMyLinked.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/linkedList/MainMyLinked.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/linkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/linkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/linkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/linkedList/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/listBasic/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/listBasic/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/listBasic/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/DSA$DanhSach/listBasic/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/EX/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/EX/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/file/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/file/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/file/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/file/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/out/production/OOP/DSA$DanhSach/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/out/production/OOP/DSA$DanhSach/MyListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOP/src/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOP/src/sort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Search/src/ex/ChuoiLienTiep.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Search/src/ex/ChuoiLienTiep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Search/src/ex/DeQuy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Search/src/ex/DeQuy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Search/src/ex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Search/src/ex/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Search/src/thuchanh/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Search/src/thuchanh/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Search/src/thuchanh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Search/src/thuchanh/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sort/src/ex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sort/src/ex/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sort/src/ex/SapXepChen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sort/src/ex/SapXepChen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sort/src/thuchanh/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sort/src/thuchanh/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sort/src/thuchanh/BubbleSortByStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sort/src/thuchanh/BubbleSortByStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sort/src/thuchanh/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sort/src/thuchanh/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../String_Regex/src/ex/CrawlNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../String_Regex/src/ex/CrawlNews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../String_Regex/src/ex/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../String_Regex/src/ex/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../String_Regex/src/ex/ValidateClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../String_Regex/src/ex/ValidateClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../String_Regex/src/thuchanh/AccountExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../String_Regex/src/thuchanh/AccountExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../String_Regex/src/thuchanh/AccountExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../String_Regex/src/thuchanh/AccountExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../String_Regex/src/thuchanh/CrawlSongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../String_Regex/src/thuchanh/CrawlSongExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../String_Regex/src/thuchanh/EmailExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../String_Regex/src/thuchanh/EmailExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../String_Regex/src/thuchanh/EmailExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../String_Regex/src/thuchanh/EmailExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th1/MathCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th1/MathCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th1/MathCalculatorProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th1/MathCalculatorProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/Facebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/Facebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/LinkedIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/LinkedIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/SocialMediaFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/SocialMediaFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/SocialShare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/SocialShare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/Twitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th2/Twitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th3/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th3/FileCalculatorAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th3/FileCalculatorAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th3/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th3/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Structural Design Pattern/src/thuchanh/th3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Text File/src/thuchanh/ReadAndWriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Text File/src/thuchanh/ReadAndWriteFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Text File/src/thuchanh/ReadFileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Text File/src/thuchanh/ReadFileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/.idea/ThiThucHanh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/ShoeShop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/data/product.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/sort/SortByNameAsc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/sort/SortByNameDesc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/sort/SortByPriceAsc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/sort/SortByPriceDesc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/sort/SortByQuantityAsc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/sort/SortByQuantityDesc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/utils/AppUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/utils/CSVUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/utils/InstantUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/view/InputOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/view/MainLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/view/ProductView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/view/ProductViewMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/view/SearchProductView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/ShoeShop/src/view/SortProductView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/sort/SortByNameAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/sort/SortByNameDesc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/sort/SortByPriceAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/sort/SortByPriceDesc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/sort/SortByQuantityAsc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/sort/SortByQuantityDesc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/utils/AppUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/utils/AppUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/utils/CSVUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/utils/InstantUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/view/InputOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/view/MainLauncher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/view/ProductView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/view/ProductView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/view/ProductViewMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/view/SearchProductView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ThiThucHanh/out/production/ShoeShop/view/SortProductView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Threading/src/thuchanh/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Threading/src/thuchanh/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Threading/src/thuchanh/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Threading/src/thuchanh/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Threading/src/thuchanh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Threading/src/thuchanh/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Threading/src/thuchanh/MainCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Threading/src/thuchanh/MainCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Threading/src/thuchanh/MainRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Threading/src/thuchanh/MainRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Threading/src/thuchanh/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Threading/src/thuchanh/RunnableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuat toan/src/TimKiemKyTu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thuat toan/src/TimKiemKyTu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Thuat toan/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Thuat toan/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Xu li ngoai le/src/ex/IllegalTriangleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Xu li ngoai le/src/ex/IllegalTriangleException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Xu li ngoai le/src/thuchanh/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Xu li ngoai le/src/thuchanh/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Xu li ngoai le/src/thuchanh/CalculationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Xu li ngoai le/src/thuchanh/CalculationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Xu li ngoai le/src/thuchanh/LinearEquationResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Xu li ngoai le/src/thuchanh/LinearEquationResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Xu li ngoai le/src/thuchanh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Xu li ngoai le/src/thuchanh/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Introduction to Java/ChangeMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Introduction to Java/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Introduction to Java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Introduction to Java/Measure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/OOP/OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/OOP/OOP.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2Htdv6A5s4LUQMh3XLDQGGhbjDy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5797012b-6bb9-4105-8bda-8b29115358cf" name="Changes" comment="" />
+      <created>1669108540888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669108540888</updated>
+      <workItem from="1669108542266" duration="154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
